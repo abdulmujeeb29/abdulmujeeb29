@@ -3,7 +3,7 @@
 Backend engineer focused on fintech infrastructure, data engineering, and AI-powered systems.
 I build things that handle real money, real users, and real scale.
 
-Currently building **[ThalesOps] — an AI agent that automates the DevOps lifecycle.
+Currently building **[ThalesOps ; www.thalesops.com] — an AI agent that automates the DevOps lifecycle.
 
 ---
 
